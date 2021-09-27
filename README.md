@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lair52
-- 👀 I’m interested in C#, Unity, AR, VR, Android Studio, Python, Blender ...
-- 🌱 I’m currently learning new tecnologies...
+- 👀 I’m interested in C#, Android Studio, Unity, AR, VR, Python, Blender ...
+- 🌱 I’m currently learning new technologies such as Swift, ArKit.
+-  I'm always improve my skills and abilities.
 - 📫 How to reach me: andersonlair3@gmail.com
 
 
